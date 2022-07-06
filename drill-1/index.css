@@ -1,0 +1,28 @@
+h1 {
+    background-color: rgb(72, 71, 71);
+    height:100px
+}
+
+#box1 {
+    background-color: gainsboro;
+    height: 800px;
+    width: 150px;
+    position: absolute;
+}
+
+#box2 {
+    background-color: gainsboro;
+    height: 800px;
+    width: 150px;
+    position: absolute;
+    left: 600px;
+}
+ 
+#box3 {
+    background-color: rgb(72, 71, 71);
+    height: 150px;
+    width: 450px;
+    position: absolute;
+    bottom: 0px;
+    left: 150px;
+}
